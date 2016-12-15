@@ -623,9 +623,7 @@ a.article-title:hover {
   padding: 10px 0;
 }
 .article-entry blockquote {
-  font-family: font-;
-  border-left: 3px solid #009688;
-  padding: 0 15px;
+  font-family: 14px;
   font-size: 1.4em;
   margin: 1.6em 20px;
   text-align: center;
